@@ -74,4 +74,4 @@ Pass your list to jsonify() when returning it. return jsonify(myList).
 
 ## SOLUTION
 
-*[Solution](https://github.com/manukempo/assignment2/blob/master/my_blog.py)
+**[Solution](https://github.com/manukempo/assignment2/blob/master/my_blog.py)
