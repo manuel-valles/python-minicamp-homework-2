@@ -70,7 +70,7 @@ A list is a collection of different values. => ['football', 'basketball', 'rugby
 The server must return a string so we need to convert our list into a string.
 One common string format for sending complex data is JSON.
 Change the top line of your server file to from flask import Flask, render_template, jsonify
-Pass your list to jsonify() when returning it. return jsonify(myList)
+Pass your list to jsonify() when returning it. return jsonify(myList).
 
 ## SOLUTION
 
