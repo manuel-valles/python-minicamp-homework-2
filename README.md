@@ -64,7 +64,7 @@ Create a route called /multiply and a route called /subtract.
 localhost:5000/multiply/6/5 would return '30'
 localhost:5000/subtract/25/5 would return '20'
 Make sure you are converting the parameters to ints and returning a string
-Create a route called /favoritefoods that returns a list of your favorite foods.
+Create a route called /favoritefoods that returns a list of your favorite foods
 
 A list is a collection of different values. => ['football', 'basketball', 'rugby']
 The server must return a string so we need to convert our list into a string.
