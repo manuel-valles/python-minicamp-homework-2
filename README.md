@@ -27,12 +27,16 @@ Your file structure should look like this:
  project-name/
 
  --server.py (or whatever you named your python script)
+ 
  --templates/
+ 
  ---- home.html
+ 
  --venv/
 
 Paste this HTML into home.html.
 
+```
 <!DOCTYPE html>
 <html>
   <body>
@@ -43,6 +47,7 @@ Paste this HTML into home.html.
     <p>Our full time and part time courses will go much more in depth as to what it takes to build the same kinds of web applications that you know and love.  We will be covering the cutting edge frameworks used by industry leaders to create highly performant and beautiful applications.</p>
   </body>
 </html>
+```
 
 ## EXTRA CREDIT
 
