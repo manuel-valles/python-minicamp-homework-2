@@ -1,6 +1,6 @@
 # ASSIGMENT2
 
-INSTRUCTIONS 
+## INSTRUCTIONS
 
 Setup your initial route at / to return 'Hello World'.
 
@@ -25,12 +25,12 @@ Navigate to localhost:5000/ and you should see the rendered HTML.
 Your file structure should look like this:
 
  project-name/
- 
+
  --server.py (or whatever you named your python script)
  --templates/
  ---- home.html
  --venv/
- 
+
 Paste this HTML into home.html.
 
 <!DOCTYPE html>
@@ -44,7 +44,7 @@ Paste this HTML into home.html.
   </body>
 </html>
 
-EXTRA CREDIT
+## EXTRA CREDIT
 
 Create a route called /add that adds two parameteres together and returns them.
 
