@@ -59,7 +59,7 @@ Example: fiveAsInt = int('5') => fiveAsInt == 5
 You then have to convert the int back into a string using str()
 Example: fiveAsString = str(5) => fiveAsString == '5'
 You can also prefix the parameter with the keyword int => <int:param>. Make sure you turn it back into a string
-Create a route called /multiply and a route called /subtract
+Create a route called /multiply and a route called /subtract.
 
 localhost:5000/multiply/6/5 would return '30'
 localhost:5000/subtract/25/5 would return '20'
